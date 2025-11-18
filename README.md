@@ -71,7 +71,7 @@
 
 ```bash
 gcc -DUNICODE -D_UNICODE main3.c sha256.c -o challenge.exe -lgdi32 -lshell32 -s -O2 -mwindows
-
+```
 
 ## 💡의도된 분석 및 우회 경로 (HINTS)
 이 챌린지는 다양한 방법으로 풀 수 있습니다.
